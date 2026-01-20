@@ -30,7 +30,7 @@ Mock Data Generator → Raw interac Transactions (CDC) → Streaming Pipeline �
 - **Unity Catalog** - Data governance and management
 - **Python/PySpark** - Data processing logic
 
-## 📊 Data Model
+## 📊 Data Model.
 
 ### Tables Created
 
